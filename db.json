@@ -1,0 +1,59 @@
+{
+    "studentsRecords" : [
+        {
+            "name" : "K MANI RAJA",
+            "subject" : "SOFTWARE IT",
+            "city" : "Hyderabad",
+            "state" : "Telangana",
+            "country" : "INDIA",
+            "address" : "plot no 540, Gachibowli",
+            "email" : "test@gmail.com",
+            "phone" : "9876543210",
+            "postalcode" : 500046 
+        },
+        {
+            "name" : "K QWEST",
+            "subject" : "SOFTWARE IT",
+            "city" : "Hyderabad",
+            "state" : "Telangana",
+            "country" : "INDIA",
+            "address" : "plot no 400, Gachibowli",
+            "email" : "test@gmail.com",
+            "phone" : "9876543111",
+            "postalcode" : 5000467
+        },
+        {
+            "name" : "K HFHH",
+            "subject" : "SOFTWARE IT",
+            "city" : "Hyderabad",
+            "state" : "Telangana",
+            "country" : "INDIA",
+            "address" : "plot no 987, Gachibowli",
+            "email" : "test@gmail.com",
+            "phone" : "9876543666",
+            "postalcode" : 500099
+        },
+        {
+            "name" : "K OUITUTI",
+            "subject" : "SOFTWARE IT",
+            "city" : "Hyderabad",
+            "state" : "Telangana",
+            "country" : "INDIA",
+            "address" : "plot no 333, Gachibowli",
+            "email" : "test@gmail.com",
+            "phone" : "987654356776",
+            "postalcode" : 5000400
+        },
+        {
+            "name" : "K DSDSD",
+            "subject" : "SOFTWARE IT",
+            "city" : "Hyderabad",
+            "state" : "Telangana",
+            "country" : "INDIA",
+            "address" : "plot no 999, Gachibowli",
+            "email" : "test@gmail.com",
+            "phone" : "98765434545",
+            "postalcode" : 5000444
+        }
+    ]
+}
